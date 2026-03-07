@@ -1,12 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ZENNO UNO GAME
 
-# Run and deploy your AI Studio app
+[![ZENNO UNO](assets/zenno-uno-banner.png)](https://axle-17.github.io/zenno-uno-game/)
+
+A fast-paced, themed card game where matching numbers drop together.  
+Outsmart your opponents and be the first to clear your hand!
+
+[▶ Play Game](https://axle-17.github.io/zenno-uno-game/) | 🔇 Mute
 
 This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4e648c22-91b3-47d5-8515-ce5901edfdf9
 
 ## Run Locally
 
@@ -15,6 +16,7 @@ View your app in AI Studio: https://ai.studio/apps/4e648c22-91b3-47d5-8515-ce590
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `API_KEY` in [.env.local](.env.local) to your API key
 3. Run the app:
    `npm run dev`
+#
